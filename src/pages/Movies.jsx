@@ -114,6 +114,7 @@ export default function MoviesPage() {
           </li>
         ))}
       </div>
+      <h1 className="text-white">HELLO WORLD</h1>
       <ToastContainer />
     </div>
   );
